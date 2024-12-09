@@ -18,7 +18,7 @@
     "react-hook-form": "^7.46.1",
     "react-icons": "^4.7.1",
     "styled-components": "^6.0.7",
-    "zod": "^3.20.6"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@hookform/devtools": "^4.3.1",
